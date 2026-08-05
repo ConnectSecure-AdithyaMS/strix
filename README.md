@@ -337,6 +337,6 @@ Strix builds on the incredible work of open-source projects like [LiteLLM](https
 
 
 > [!WARNING]
-> Only test apps you own or have permission to test. You are responsible for using Strix ethically and legally.
+> Only test apps you own or have permission to test. You are responsible for using Strix ethically and legally. Otherwise, you shall get screwed up by cybercrime.
 
 </div>
